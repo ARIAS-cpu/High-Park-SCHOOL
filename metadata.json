@@ -1,0 +1,7 @@
+{
+  "name": "Hyde Park School - App i Comunitat",
+  "description": "App d'aprenentatge, gestió i Teen Community per a Hyde Park School (idiomes B2, C1, Goethe)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
